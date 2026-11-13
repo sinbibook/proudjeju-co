@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-11-13T07:47:48.405820089Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-11-13T07:51:19.049897031Z",
     "templateType": "trip_l",
     "propertyId": "63e16298-3455-4249-9d48-f3903441a1d2",
     "homepageId": "01a0a918-6b7b-748e-9ab2-fecc1999d103"
@@ -1777,7 +1777,7 @@
             {
               "id": "01a1d3e0-7acd-7ad4-b709-78ca4132a465",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794556066203-2kztwzsft5.jpg",
-              "sortOrder": 5,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "499f6232-4c2a-4ca4-bde4-14b8e1baf752",
@@ -1786,7 +1786,7 @@
             {
               "id": "01a1d3e0-7b9d-76fa-8f89-2527e1f5b61f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794556066202-a3vedlgxto.jpg",
-              "sortOrder": 6,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "499f6232-4c2a-4ca4-bde4-14b8e1baf752",
@@ -1795,7 +1795,7 @@
             {
               "id": "01a1d3e0-7aae-77d2-ab9a-71ae911f0023",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794556066200-z91c23matg.jpg",
-              "sortOrder": 7,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "499f6232-4c2a-4ca4-bde4-14b8e1baf752",
@@ -1916,27 +1916,9 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "01a1d3d6-9f9b-76ad-991e-daf0189c0c1d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794555419773-8pkefi5hbn.jpg",
-              "sortOrder": 0,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1cf35-1dba-7f85-8f1b-fb8200529a8b",
-              "category": "roomtype_exterior"
-            },
-            {
               "id": "01a1d3d6-9f8e-7c24-8cb9-372a820e7d50",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794555419776-rdnofw02cg.jpg",
-              "sortOrder": 1,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1cf35-1dba-7f85-8f1b-fb8200529a8b",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "01a1d3d6-a010-72ec-94d4-d1a72db8fd99",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794555419775-rdk9dbs3i0.jpg",
-              "sortOrder": 2,
+              "sortOrder": 3,
               "description": "",
               "isSelected": true,
               "blockId": "01a1cf35-1dba-7f85-8f1b-fb8200529a8b",
@@ -1945,7 +1927,7 @@
             {
               "id": "01a1d3d6-9f9b-7bf6-addd-afa6c13a7c6c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794555419775-outr0st979.jpg",
-              "sortOrder": 3,
+              "sortOrder": 4,
               "description": "",
               "isSelected": true,
               "blockId": "01a1cf35-1dba-7f85-8f1b-fb8200529a8b",
@@ -1954,7 +1936,7 @@
             {
               "id": "01a1d3d6-9f9c-7751-802f-4a390decd24a",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a918-6b7b-748e-9ab2-fecc1999d103/roomtype_exterior/1794555419777-4wtxfh40y6.jpg",
-              "sortOrder": 4,
+              "sortOrder": 5,
               "description": "",
               "isSelected": true,
               "blockId": "01a1cf35-1dba-7f85-8f1b-fb8200529a8b",
