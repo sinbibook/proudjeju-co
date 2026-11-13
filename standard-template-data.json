@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-13T07:38:02.895805084Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-13T07:42:24.663267835Z",
     "templateType": "trip_l",
     "propertyId": "63e16298-3455-4249-9d48-f3903441a1d2",
     "homepageId": "01a0a918-6b7b-748e-9ab2-fecc1999d103"
@@ -1593,7 +1593,6 @@
       "roomtypes": [
         {
           "id": "499f6232-4c2a-4ca4-bde4-14b8e1baf752",
-          "name": "프라우드 제주(독채/자쿠지/개별바베큐)",
           "images": [
             {
               "id": "01a0a918-8765-7842-86b8-70fa11cc6b76",
